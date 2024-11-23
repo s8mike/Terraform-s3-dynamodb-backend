@@ -1,0 +1,1 @@
+This back up folder is meant to store currently tested and working files both at the root of the project and at the modules files and folders, such that should there be modifications, tested and not working, I can easily fall back to the older versions.

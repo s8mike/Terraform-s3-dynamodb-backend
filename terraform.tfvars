@@ -1,0 +1,5 @@
+bucket_name           = "s8mike-dev-s3dynamodb-bucket"
+dynamodb_table_name   = "s8mike-dev-dynamodb-lock-Table"
+aws_region = "us-east-1"
+tags = "state lock table"
+environment = "development"
