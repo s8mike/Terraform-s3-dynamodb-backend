@@ -1,6 +1,7 @@
 This project is to set up a Terraform module for creating an S3 bucket and a DynamoDB table to manage state files.
 It will involve defining the directory structure, Terraform files, and the process to test and configure the backend to give a working configuration.
 The directory structure for Terraform Configuration: This will help manage the Terraform configuration and modules efficiently as shown below:
+
 S3_DynamoDB-project/
 ├── modules/          
 │   └── s3-dynamodb/  
@@ -12,7 +13,7 @@ S3_DynamoDB-project/
 ├── README.md
 ├── .gitignore
 ├── cleanup.sh
-├──s8mike-back-up/
+├──s8mike-back-up/ This folder is meant to back all versions of files and folders
 └── provider.tf        
 
 
